@@ -1,0 +1,25 @@
+
+-Nama         : Ganang 
+ NIM         : 10112694 
+ Nilai UTS   : 80 
+ Nilai UAS   : 80 
+ Nilai Quis  : 90 
+ 
+-Nama         : Ganang 
+ NIM         : 10112898 
+ Nilai UTS   : 80 
+ Nilai UAS   : 79 
+ Nilai Quis  : 90 
+ 
+-Nama         : Ganang 
+ NIM         : 10112694 
+ Nilai UTS   : 32 
+ Nilai UAS   : 32 
+ Nilai Quis  : 12 
+ 
+-Nama         : Ganang 
+ NIM         : 10112898 
+ Nilai UTS   : 80 
+ Nilai UAS   : 79 
+ Nilai Quis  : 90 
+ 
